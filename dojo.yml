@@ -1,0 +1,9 @@
+id: welcome
+
+name: Dojo Dojo
+
+image: pwncollege/challenge-simple
+
+modules:
+  - id: welcome
+  - id: discord

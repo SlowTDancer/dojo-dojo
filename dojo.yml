@@ -1,24 +1,16 @@
 id: cybersecurity-survival-guide
-name: "Cybersecurity Survival Guide"
+name: Cybersecurity Survival Guide
 
 award:
-  emoji: "👑"
+  emoji: 👑
+
+image: pwncollege/challenge-legacy:latest
 
 description: |
   კიბერის სურვაივალ გაიდი 😎
 
+type: welcome
+
 modules:
-  - id: introduction
-    name: "Introduction"
-    description: "Start here with the basics."
-    challenges: []
 
-  - id: fundamentals
-    name: "Fundamentals"
-    description: "Core cybersecurity concepts."
-    challenges: []
-
-  - id: advanced
-    name: "Advanced"
-    description: "More difficult material."
-    challenges: []
+- id: introduction

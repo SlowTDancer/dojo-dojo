@@ -13,6 +13,4 @@ type: welcome
 
 modules:
 
-- id: introduction
-- id: fundamentals
-- id: advanced
+- id: program-misuse

@@ -21,6 +21,9 @@ resources:
   video: kzbyvr_PJ9k
   playlist: PL-ymxv0nOtqoaG9YCGR36tCfRoXqVcE1E
   slides: 1pvWd6n4UN3lZ1BdRySWDl80iEYGRJj9VC5exbYlGdAg
+- name: "ირაკლის კონსპექტები"
+  type: lecture
+  slides: "slides/program-misuse.pdf"
 
 challenges:
 - id: cat

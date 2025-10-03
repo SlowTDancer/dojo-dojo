@@ -5,8 +5,3 @@ image: pwncollege/challenge-legacy:latest
 
 description: |
   კიბერის სურვაივალ გაიდი 😎
-
-type: welcome
-
-modules:
-- id: welcome

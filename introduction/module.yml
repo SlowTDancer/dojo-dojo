@@ -1,0 +1,13 @@
+id: introduction
+name: Introduction
+
+image: pwncollege/challenge-legacy:latest
+
+description: |
+  აქ ტექსტს მერე მოვიფიქრებ
+
+type: welcome
+
+modules:
+
+- id: program-misuse

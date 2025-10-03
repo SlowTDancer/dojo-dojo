@@ -1,8 +1,8 @@
-id: fundamentals
-name: Playing With Programs
+id: cybersecurity survival guide
+name: Cybersecurity Survival Guide
 
 award:
-  emoji: 🔤
+  emoji: 👑
 
 image: pwncollege/challenge-legacy:latest
 
@@ -13,4 +13,6 @@ type: welcome
 
 modules:
 
-- id: program-misuse
+- id: introduction
+- id: fundamentals
+- id: advanced

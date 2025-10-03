@@ -5,3 +5,7 @@ image: pwncollege/challenge-legacy:latest
 
 description: |
   აქ ტექსტს მერე მოვიფიქრებ
+
+modules:
+
+-id: program-misuse

@@ -8,4 +8,4 @@ description: |
 
 modules:
 
--id: program-misuse
+- id: program-misuse

@@ -6,6 +6,6 @@ image: pwncollege/challenge-legacy:latest
 description: |
   აქ ტექსტს მერე მოვიფიქრებ
 
-# modules:
+modules:
 
-# -id: program-misuse
+-id: program-misuse

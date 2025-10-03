@@ -1,9 +1,16 @@
-id: welcome
+id: fundamentals
+name: Playing With Programs
 
-name: Dojo Dojo
+award:
+  emoji: 🔤
 
-image: pwncollege/challenge-simple
+image: pwncollege/challenge-legacy:latest
+
+description: |
+  კიბერის სურვაივალ გაიდი 😎
+
+type: welcome
 
 modules:
-  - id: welcome
-  - id: discord
+
+- id: program-misuse

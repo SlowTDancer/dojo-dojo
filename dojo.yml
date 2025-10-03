@@ -14,5 +14,6 @@ type: welcome
 modules:
 
 - id: program-misuse
+- id: programming-interaction
 - id: assembly-crash-course
 - id: debugging-refresher

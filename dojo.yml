@@ -26,7 +26,7 @@ modules:
 - id: binary-exploitation
 - id: reverse-engineering
 - id: sandboxing
-- id: memory-errors
+- id: program-security
 - id: program-exploitation
 - id: race-conditions
 - id: return-oriented-programming

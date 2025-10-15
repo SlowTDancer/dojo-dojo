@@ -55,368 +55,212 @@ challenges:
 - id: level-18
   name: level18
   description: ""
-- id: level-19
+- id: level-22
   name: level19
   description: ""
-- id: level-20
+- id: level-23
   name: level20
   description: ""
-- id: level-21
+- id: level-24
   name: level21
   description: ""
-- id: level-22
+- id: level-25
   name: level22
   description: ""
-- id: level-23
+- id: level-26
   name: level23
   description: ""
-- id: level-24
+- id: level-27
   name: level24
   description: ""
-- id: level-25
+- id: level-28
   name: level25
   description: ""
-- id: level-26
+- id: level-29
   name: level26
   description: ""
-- id: level-27
+- id: level-30
   name: level27
   description: ""
-- id: level-28
+- id: level-31
   name: level28
   description: ""
-- id: level-29
+- id: level-32
   name: level29
   description: ""
-- id: level-30
+- id: level-33
   name: level30
   description: ""
-- id: level-31
+- id: level-34
   name: level31
   description: ""
-- id: level-32
+- id: level-35
   name: level32
   description: ""
-- id: level-33
+- id: level-36
   name: level33
   description: ""
-- id: level-34
+- id: level-37
   name: level34
   description: ""
-- id: level-35
+- id: level-40
   name: level35
   description: ""
-- id: level-36
+- id: level-42
   name: level36
   description: ""
-- id: level-37
+- id: level-44
   name: level37
   description: ""
-- id: level-38
+- id: level-47
   name: level38
   description: ""
-- id: level-39
+- id: level-54
   name: level39
   description: ""
-- id: level-40
+- id: level-56
   name: level40
   description: ""
-- id: level-41
+- id: level-58
   name: level41
   description: ""
-- id: level-42
+- id: level-60
   name: level42
   description: ""
-- id: level-43
+- id: level-61
   name: level43
   description: ""
-- id: level-44
+- id: level-65
   name: level44
   description: ""
-- id: level-45
+- id: level-66
   name: level45
   description: ""
-- id: level-46
+- id: level-68
   name: level46
   description: ""
-- id: level-47
+- id: level-71
   name: level47
   description: ""
-- id: level-48
+- id: level-72
   name: level48
   description: ""
-- id: level-49
+- id: level-73
   name: level49
   description: ""
-- id: level-50
+- id: level-74
   name: level50
   description: ""
-- id: level-51
+- id: level-77
   name: level51
   description: ""
-- id: level-52
+- id: level-79
   name: level52
   description: ""
-- id: level-53
+- id: level-80
   name: level53
   description: ""
-- id: level-54
+- id: level-83
   name: level54
   description: ""
-- id: level-55
+- id: level-85
   name: level55
   description: ""
-- id: level-56
+- id: level-86
   name: level56
   description: ""
-- id: level-57
+- id: level-87
   name: level57
   description: ""
-- id: level-58
+- id: level-88
   name: level58
   description: ""
-- id: level-59
+- id: level-89
   name: level59
   description: ""
-- id: level-60
+- id: level-94
   name: level60
   description: ""
-- id: level-61
+- id: level-97
   name: level61
   description: ""
-- id: level-62
+- id: level-99
   name: level62
   description: ""
-- id: level-63
+- id: level-100
   name: level63
   description: ""
-- id: level-64
+- id: level-102
   name: level64
   description: ""
-- id: level-65
+- id: level-103
   name: level65
   description: ""
-- id: level-66
+- id: level-104
   name: level66
   description: ""
-- id: level-67
+- id: level-105
   name: level67
   description: ""
-- id: level-68
+- id: level-106
   name: level68
   description: ""
-- id: level-70
-  name: level70
-  description: ""
-- id: level-71
-  name: level71
-  description: ""
-- id: level-72
-  name: level72
-  description: ""
-- id: level-73
-  name: level73
-  description: ""
-- id: level-74
-  name: level74
-  description: ""
-- id: level-76
-  name: level76
-  description: ""
-- id: level-77
-  name: level77
-  description: ""
-- id: level-78
-  name: level78
-  description: ""
-- id: level-79
-  name: level79
-  description: ""
-- id: level-80
-  name: level80
-  description: ""
-- id: level-82
-  name: level82
-  description: ""
-- id: level-83
-  name: level83
-  description: ""
-- id: level-84
-  name: level84
-  description: ""
-- id: level-85
-  name: level85
-  description: ""
-- id: level-86
-  name: level86
-  description: ""
-- id: level-87
-  name: level87
-  description: ""
-- id: level-88
-  name: level88
-  description: ""
-- id: level-89
-  name: level89
-  description: ""
-- id: level-90
-  name: level90
-  description: ""
-- id: level-91
-  name: level91
-  description: ""
-- id: level-92
-  name: level92
-  description: ""
-- id: level-93
-  name: level93
-  description: ""
-- id: level-94
-  name: level94
-  description: ""
-- id: level-95
-  name: level95
-  description: ""
-- id: level-96
-  name: level96
-  description: ""
-- id: level-97
-  name: level97
-  description: ""
-- id: level-98
-  name: level98
-  description: ""
-- id: level-99
-  name: level99
-  description: ""
-- id: level-100
-  name: level100
-  description: ""
-- id: level-101
-  name: level101
-  description: ""
-- id: level-102
-  name: level102
-  description: ""
-- id: level-103
-  name: level103
-  description: ""
-- id: level-104
-  name: level104
-  description: ""
-- id: level-105
-  name: level105
-  description: ""
-- id: level-106
-  name: level106
-  description: ""
 - id: level-107
-  name: level107
-  description: ""
-- id: level-108
-  name: level108
-  description: ""
-- id: level-109
-  name: level109
+  name: level69
   description: ""
 - id: level-110
-  name: level110
-  description: ""
-- id: level-111
-  name: level111
+  name: level70
   description: ""
 - id: level-112
-  name: level112
+  name: level71
   description: ""
 - id: level-113
-  name: level113
-  description: ""
-- id: level-114
-  name: level114
+  name: level72
   description: ""
 - id: level-115
-  name: level115
+  name: level73
   description: ""
 - id: level-116
-  name: level116
+  name: level74
   description: ""
 - id: level-117
-  name: level117
+  name: level75
   description: ""
 - id: level-118
-  name: level118
-  description: ""
-- id: level-119
-  name: level119
+  name: level76
   description: ""
 - id: level-120
-  name: level120
-  description: ""
-- id: level-121
-  name: level121
-  description: ""
-- id: level-122
-  name: level122
+  name: level77
   description: ""
 - id: level-123
-  name: level123
-  description: ""
-- id: level-124
-  name: level124
-  description: ""
-- id: level-125
-  name: level125
+  name: level78
   description: ""
 - id: level-126
-  name: level126
-  description: ""
-- id: level-127
-  name: level127
+  name: level79
   description: ""
 - id: level-128
-  name: level128
-  description: ""
-- id: level-129
-  name: level129
-  description: ""
-- id: level-130
-  name: level130
+  name: level80
   description: ""
 - id: level-131
-  name: level131
-  description: ""
-- id: level-132
-  name: level132
+  name: level81
   description: ""
 - id: level-133
-  name: level133
-  description: ""
-- id: level-134
-  name: level134
-  description: ""
-- id: level-135
-  name: level135
+  name: level82
   description: ""
 - id: level-136
-  name: level136
-  description: ""
-- id: level-137
-  name: level137
+  name: level83
   description: ""
 - id: level-138
-  name: level138
-  description: ""
-- id: level-139
-  name: level139
+  name: level84
   description: ""
 - id: level-140
-  name: level140
+  name: level85
   description: ""
 - id: level-141
-  name: level141
+  name: level86
   description: ""
 - id: level-142
-  name: level142
+  name: level87
   description: ""
 resources:
 - name: "Program Interaction: Linux Command Line"

@@ -13,7 +13,8 @@ image: pwncollege/challenge-program-misuse
 resources:
 - name: "Program Interaction: Linux Command Line"
   type: lecture
-  video: PL-ymxv0nOtqqQ4NR1JnbWoHNm0Q8EspO1
+  video: w7nQFk6bi_k
+  playlist: PL-ymxv0nOtqqQ4NR1JnbWoHNm0Q8EspO1
   slides: 1aiHdtSm8xoT0u2XcTo3qYGes5GY__-PK-FlVyNBQAfY
 - name: "Program Misuse: Privilege Escalation"
   type: lecture

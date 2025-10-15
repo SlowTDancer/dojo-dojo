@@ -3,8 +3,6 @@ name: Race Conditions
 description: |
   Challenges on filesystem and memory race conditions, TOCTOU, timing windows, and concurrency.
   Progresses from wide-window races to increasingly narrow and intricate races.
-author: pwncollege
-license: BSD-2-Clause
 
 challenges:
   - id: level1.0
@@ -116,9 +114,3 @@ challenges:
     name: level11.1
     type: challenge
     description: "The hardest race: extremely narrow timing windows and limited levers."
-
-resources:
-  - title: Race Conditions Lecture / README
-    path: README.md
-  - title: Slides
-    url: https://pwn.college/cse466-f2024/race-conditions/

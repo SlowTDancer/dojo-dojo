@@ -1,0 +1,124 @@
+id: race-conditions
+name: Race Conditions
+description: |
+  Challenges on filesystem and memory race conditions, TOCTOU, timing windows, and concurrency.
+  Progresses from wide-window races to increasingly narrow and intricate races.
+author: pwncollege
+license: BSD-2-Clause
+
+challenges:
+  - id: level1.0
+    name: level1.0
+    type: challenge
+    description: "Exploit a basic race condition to get the flag."
+
+  - id: level1.1
+    name: level1.1
+    type: challenge
+    description: "Exploit a basic race condition to get the flag."
+
+  - id: level2.0
+    name: level2.0
+    type: challenge
+    description: "Tighter timing window race to read the flag."
+
+  - id: level2.1
+    name: level2.1
+    type: challenge
+    description: "Tighter race window — fewer timing levers."
+
+  - id: level3.0
+    name: level3.0
+    type: challenge
+    description: "Exploit a race condition to corrupt memory."
+
+  - id: level3.1
+    name: level3.1
+    type: challenge
+    description: "Memory corruption via race, more constrained."
+
+  - id: level4.0
+    name: level4.0
+    type: challenge
+    description: "Exploit race condition to smash the stack."
+
+  - id: level4.1
+    name: level4.1
+    type: challenge
+    description: "Harder stack-smashing race in constrained environment."
+
+  - id: level5.0
+    name: level5.0
+    type: challenge
+    description: "Complex race condition involving multiple steps."
+
+  - id: level5.1
+    name: level5.1
+    type: challenge
+    description: "Multi-step race — narrower timing windows."
+
+  - id: level6.0
+    name: level6.0
+    type: challenge
+    description: "Advanced race condition chaining to leak or alter state."
+
+  - id: level6.1
+    name: level6.1
+    type: challenge
+    description: "Even tighter chaining races with limited slack."
+
+  - id: level7.0
+    name: level7.0
+    type: challenge
+    description: "Realistic race scenario impacting program logic."
+
+  - id: level7.1
+    name: level7.1
+    type: challenge
+    description: "Another realistic race with further constraints."
+
+  - id: level8.0
+    name: level8.0
+    type: challenge
+    description: "Utilize multiple connections to trip a race affecting behavior."
+
+  - id: level8.1
+    name: level8.1
+    type: challenge
+    description: "Same multi-connection race with tighter timing."
+
+  - id: level9.0
+    name: level9.0
+    type: challenge
+    description: "Race to leak information from the program."
+
+  - id: level9.1
+    name: level9.1
+    type: challenge
+    description: "Race leak with reduced timing slack."
+
+  - id: level10.0
+    name: level10.0
+    type: challenge
+    description: "Complex race to leak flag under constraints."
+
+  - id: level10.1
+    name: level10.1
+    type: challenge
+    description: "Same as 10.0 but with harder constraints."
+
+  - id: level11.0
+    name: level11.0
+    type: challenge
+    description: "Top-tier race with minimal slack — chain finely timed interactions."
+
+  - id: level11.1
+    name: level11.1
+    type: challenge
+    description: "The hardest race: extremely narrow timing windows and limited levers."
+
+resources:
+  - title: Race Conditions Lecture / README
+    path: README.md
+  - title: Slides
+    url: https://pwn.college/cse466-f2024/race-conditions/

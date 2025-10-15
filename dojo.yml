@@ -23,3 +23,6 @@ modules:
 - id: program-interaction
 - id: assembly-crash-course
 - id: debugging-refresher
+- id: reverse-engineering
+- id: program-exploitation
+- id: race-conditions
